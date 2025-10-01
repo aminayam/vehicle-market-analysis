@@ -27,6 +27,17 @@ The main objective is to identify **trends in car sales across body types, manuf
 - Shift in fuel type preference observed over time.  
 - Clear growth/decline patterns in specific car body types.  
 
-Example plot:  
-
+## Vehicle Registrations per Year
 ![Trends Over Time](results/registrations_total.png)
+
+## Cars Brands Popularity Visualization
+ Top 10 Car Brands Ranking by Year
+![Top 10 Car Brands Ranking by Year](results/top_10_rank.png)
+
+Top 10 Car Brands Over Years
+![Top 10 Car Brands Over Years](results/top_10_line.png)
+
+Top 10 Car Brands Race Chart
+![Top 10 Car Brands Race Chart](results/race_chart.gif)
+
+
